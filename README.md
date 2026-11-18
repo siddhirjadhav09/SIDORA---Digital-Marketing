@@ -21,4 +21,4 @@ A digital marketing project for SIDORA, a perfume brand.
 - docs/: marketing plan and brand notes
 
 ## Contact
-Add your email or Instagram here.
+siddhirjadhav773@gmail.com
